@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-10T09:58:01Z" name="Test Practice 1" finished-at="2021-07-10T09:59:56Z" duration-ms="114757">
+    <groups>
+    </groups>
+    <test started-at="2021-07-10T09:58:01Z" name="Practice_1" finished-at="2021-07-10T09:59:56Z" duration-ms="114757">
+      <class name="TestCases.TestCase_MuviContent">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TestCase_MuviContent@16c3ca31]" started-at="2021-07-10T04:58:01Z" name="setup" finished-at="2021-07-10T04:58:18Z" duration-ms="16439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestMuviContent()[pri:0, instance:TestCases.TestCase_MuviContent@16c3ca31]" started-at="2021-07-10T04:58:18Z" name="TestMuviContent" finished-at="2021-07-10T04:59:51Z" duration-ms="93120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMuviContent -->
+        <test-method is-config="true" signature="CloseSession()[pri:0, instance:TestCases.TestCase_MuviContent@16c3ca31]" started-at="2021-07-10T04:59:51Z" name="CloseSession" finished-at="2021-07-10T04:59:56Z" duration-ms="4890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseSession -->
+      </class> <!-- TestCases.TestCase_MuviContent -->
+    </test> <!-- Practice_1 -->
+  </suite> <!-- Test Practice 1 -->
+</testng-results>
